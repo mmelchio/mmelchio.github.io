@@ -58,6 +58,9 @@ Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna m
 
 {% highlight java %}
 //test
+public static void main(String[] args) {
+	int i = 0;
+}
 test.add(test);
 {% endhighlight %}
 

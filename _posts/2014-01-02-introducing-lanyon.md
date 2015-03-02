@@ -1,9 +1,9 @@
 ---
 layout: post
 <<<<<<< HEAD
-title: MM
+title: MM2
 =======
-title: ab
+title: MM2
 >>>>>>> origin/master
 ---
 

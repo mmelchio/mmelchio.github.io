@@ -7,7 +7,7 @@ title: Introducing
 
 -----
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's used by [@revO_m](https://twitter.com/revO_m).
+Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's used by [@m_melchio](https://twitter.com/m_melchio).
 
 Current website:
 

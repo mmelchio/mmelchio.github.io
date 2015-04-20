@@ -1,20 +1,21 @@
 ---
 layout: post
-title: MM
+title: Introducing
 ---
 
+<<<<<<< HEAD
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler. test
+=======
+*New Post* New Post.
+>>>>>>> 93a9a94aac6f06ab6596855cd6a3c154f391d7cb
 
 -----
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's used by [@m_melchio](https://twitter.com/m_melchio).
 
-There are currently two themes built on Poole:
+Current website:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [mmelchio](http://mmelchio.github.io)
 
 ### What's included
 

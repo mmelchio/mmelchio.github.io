@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: MM2
-=======
-title: MM2
->>>>>>> origin/master
+title: Introducing Lanyon
 ---
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.

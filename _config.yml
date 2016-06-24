@@ -19,7 +19,7 @@ paginate:            5
 # About/contact
 author:
   name:              Marino Melchiori
-  url:               "https://twitter.com/m_melchio
+  url:               https://twitter.com/m_melchio
   email:             marino.melchiori@gmail.com
 
 # Custom vars

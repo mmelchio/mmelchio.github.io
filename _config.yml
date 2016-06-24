@@ -14,15 +14,13 @@ title:               Marino Melchiori
 tagline:             '@m_melchio'
 #'A Jekyll theme'
 description:         'Marino Melchioris Blog. Twitter: <a href="https://twitter.com/m_melchio" target="_blank">@m_melchio</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Marino Melchiori
+  url:               "https://twitter.com/m_melchio
+  email:             marino.melchiori@gmail.com
 
 # Custom vars
 version:             1.0.0

@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Marino Melchiori
 #Lyanon
-tagline:             '<a href="https://twitter.com/m_melchio" target="_blank">@m_melchio</a>'
+tagline:             '@m_melchio'
 #'A Jekyll theme'
 description:         'Marino Melchioris Blog. Twitter: <a href="https://twitter.com/m_melchio" target="_blank">@m_melchio</a>.'
 paginate:            5
